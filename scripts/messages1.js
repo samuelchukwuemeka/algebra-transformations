@@ -2,9 +2,9 @@
 // www.samuelchukwuemeka.com
 // www.chukwuemekasamuel.com
 // www.samdomforpeace.com
-// www.chukwuemeka-samuel.appspot.com
-// www.samdomforpeace.appspot.com
-// www.algebra-transformations.appspot.com
+// https://chukwuemekasamuel.com/
+// https://samdomforpeace.com
+// https://samuelchukwuemeka.github.io/algebra-transformations/
 // messages 1
 
 /*
